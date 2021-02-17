@@ -9,7 +9,8 @@
 <a href="https://www.facebook.com/navadeeppasala/">
   <img align="left" alt="Navadeep Pasala Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br>
+
+
 - 🔭 I’m currently Purshuing PG diploma datascience course at manipal
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Big Data, Artificial Intelligence....
 - 👯 I’m looking to collaborate Data Analyst, Data scientist....
