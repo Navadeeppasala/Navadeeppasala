@@ -10,15 +10,15 @@
   <img align="left" alt="Navadeep Pasala Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-
-- 🔭 I’m currently Purshuing PG diploma datascience course at manipal
-- 🌱 I’m currently learning Machine Learning, Deep Learning, Big Data, Artificial Intelligence....
-- 👯 I’m looking to collaborate Data Analyst, Data scientist....
-- 🤔 I’m looking for help to develop my data science skills.
-- 💬 Ask me about anything related to Python/Machine Learning/Big Data/SQL.
-- 📫 How to reach me: pnavadeep1997@gmail.com, 6281370668.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I am half finish
+,br>
+- 🔭 **I’m currently Purshuing PG diploma datascience course at manipal**
+- 🌱 **I’m currently learning Machine Learning, Deep Learning, Big Data, Artificial Intelligence....**
+- 👯 **I’m looking to collaborate Data Analyst, Data scientist....**
+- 🤔 **I’m looking for help to develop my data science skills.**
+- 💬 **Ask me about anything related to Python/Machine Learning/Big Data/SQL.**
+- 📫 **How to reach me: pnavadeep1997@gmail.com, 6281370668.**
+- 😄 **Pronouns: He/His**
+- ⚡ **Fun fact: I am half finish**
 
 ### 📢 Find me elsewhere
 
