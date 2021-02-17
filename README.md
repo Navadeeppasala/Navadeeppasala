@@ -9,3 +9,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am half finish
 -->
+### GitHub Stats
+</p>  
+<img align = "left" alt = "Navadeep Pasala Github Stats" src="https://github-readme-stats.vercel.app/api?username=navadeeppasala&theme=algolia&show_icons=true" />
