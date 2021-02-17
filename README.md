@@ -11,7 +11,7 @@
 </a>
 <br>
 
-- 🔭 **I’m currently Purshuing PG diploma datascience course at manipal**
+- 🔭 **I’m currently Purshuing PG diploma datascience course at Manipal Academy of Higher Education**
 - 🌱 **I’m currently learning Machine Learning, Deep Learning, Big Data, Artificial Intelligence....**
 - 👯 **I’m looking to collaborate Data Analyst, Data scientist....**
 - 🤔 **I’m looking for help to develop my data science skills.**
@@ -28,9 +28,7 @@
 ### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSAfM43jb-QFRS5tUMU9G4AvU0SYGX_J4cVpQ&usqp=CAU"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
