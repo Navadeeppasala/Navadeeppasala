@@ -1,4 +1,5 @@
 ### Hi there, I'm Navadeep Pasala 👋
+
 <a href="https://www.linkedin.com/in/navadeep-pasala-1280b0145/">
   <img align="left" alt="Navadeep Pasala Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -8,20 +9,22 @@
 <a href="https://www.facebook.com/navadeeppasala/">
   <img align="left" alt="Navadeep Pasala Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
+<br>
 - 🔭 I’m currently Purshuing PG diploma datascience course at manipal
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Big Data, Artificial Intelligence....
 - 👯 I’m looking to collaborate Data Analyst, Data scientist....
-- 🤔 I’m looking for help to develop my data science skills
-- 💬 Ask me about anything related to Python/Machine Learning/Big Data
-- 📫 How to reach me: pnavadeep1997@gmail.com, 6281370668...
+- 🤔 I’m looking for help to develop my data science skills.
+- 💬 Ask me about anything related to Python/Machine Learning/Big Data/SQL.
+- 📫 How to reach me: pnavadeep1997@gmail.com, 6281370668.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am half finish
 
 ### 📢 Find me elsewhere
+
 <a href="https://www.hackerrank.com/pnavadeep1997">
     <img src="https://img.shields.io/badge/-hackerrank-gray?style=for-the-badge&labelColor=black&logo=hackerrank&logoColor=61DBFB)" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
+  
 ### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
