@@ -16,8 +16,7 @@
 - 👯 **I’m looking to collaborate Data Analyst, Data scientist....**
 - 🤔 **I’m looking for help to develop my data science skills.**
 - 💬 **Ask me about anything related to Python/Machine Learning/Big Data/SQL.**
-- 📫 **How to reach me:**
-- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/navadeep-pasala-1280b0145/)
+- 📫 **How to reach me:** [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/navadeep-pasala-1280b0145/)
 - 😄 **Pronouns: He/His**
 - ⚡ **Fun fact: I am half finish**
 
