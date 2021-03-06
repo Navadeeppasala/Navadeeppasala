@@ -17,7 +17,7 @@
 - 🤔 **I’m looking for help to develop my data science skills.**
 - 💬 **Ask me about anything related to Python/Machine Learning/Big Data/SQL.**
 - 📫 **How to reach me:** [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/navadeep-pasala-1280b0145/) 
-- <a href="https://www.linkedin.com/in/navadeep-pasala-1280b0145/">
+<a href="https://www.linkedin.com/in/navadeep-pasala-1280b0145/">
   <img align="left" alt="Navadeep Pasala Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/navadeep_pasala/">
@@ -26,6 +26,7 @@
 <a href="https://www.facebook.com/navadeeppasala/">
   <img align="left" alt="Navadeep Pasala Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
 - 😄 **Pronouns: He/His**
 - ⚡ **Fun fact: I am half finish**
 
