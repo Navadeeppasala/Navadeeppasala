@@ -1,12 +1,7 @@
 ### Hi there, I'm Navadeep Pasala 👋
 
-- 🔭 **I’m currently Purshuing PG diploma datascience course at Manipal Academy of Higher Education**
-- 🌱 **I’m currently learning Machine Learning, Deep Learning, Big Data, Artificial Intelligence....**
-- 👯 **I’m looking to collaborate Data Analyst, Data scientist....**
-- 🤔 **I’m looking for help to develop my data science skills.**
+- A passionate Data Science enthusiast. I am Currently Pursuing Post Graduation Diploma in Data Science from the Manipal Academy of Higher Education. I am a fresher, looking forward to making a career transition to the Data Science domain. 
 - 💬 **Ask me about anything related to Python/Machine Learning/Big Data/SQL.**
-- 😄 **Pronouns: He/His**
-- ⚡ **Fun fact: I am half finish**
 - 📫 **How to reach me:** 
 <a href="https://www.linkedin.com/in/navadeep-pasala-1280b0145/">
   <img align="left" alt="Navadeep Pasala Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
