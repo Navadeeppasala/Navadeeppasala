@@ -1,6 +1,6 @@
 ### Hi there, I'm Navadeep Pasala 👋
 
-- **A passionate Data Science enthusiast. I am Currently Pursuing Post Graduation Diploma in Data Science from the Manipal Academy of Higher Education. I am a fresher, looking forward to making a career transition to the Data Science domain.**
+- **A passionate Data Science enthusiast. I recently completed Post Graduation Diploma in Data Science from the Manipal Academy of Higher Education. I am a fresher, looking forward to making a career transition to the Data Science domain.**
 - 💬 **Ask me about anything related to Python/Machine Learning/Big Data/SQL.**
 - 📫 **How to reach me:** 
 <a href="https://www.linkedin.com/in/navadeep-pasala-1280b0145/">
