@@ -1,6 +1,8 @@
 ### Hi there, I'm Navadeep Pasala 👋
 
-- **A passionate Data Science enthusiast. I recently completed Post Graduation Diploma in Data Science from the Manipal Academy of Higher Education. I am a fresher, looking forward to making a career transition to the Data Science domain.**
+- ** am eager to expand my knowledge of the industry and establish a robust foundation for a successful career in analytics and data-driven outcomes. I am driven by the prospect of making positive impacts through data and contributing to the advancement of this field.
+
+Currently, I am employed at Foundry Digital, which was established to cater to the institutional demand for improved capital access, efficiency, and transparency in the digital currency mining and staking industry. My role involves analyzing data to assist mining operators in maintaining optimal hardware conditions and consistent hash rates. This, in turn, facilitates the maximization of profits and the attainment of greater success in the cryptocurrency mining sector.**
 - 💬 **Ask me about anything related to Python/Machine Learning/Big Data/SQL.**
 - 📫 **How to reach me:** 
 <a href="https://www.linkedin.com/in/navadeep-pasala-1280b0145/">
