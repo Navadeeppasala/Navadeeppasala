@@ -3,7 +3,7 @@
 - **I am eager to expand my knowledge of the industry and establish a robust foundation for a successful career in analytics and data-driven outcomes. I am driven by the prospect of making positive impacts through data and contributing to the advancement of this field**.
 
 - **Currently, I am employed at Foundry Digital, which was established to cater to the institutional demand for improved capital access, efficiency, and transparency in the digital currency mining and staking industry. My role involves analyzing data to assist mining operators in maintaining optimal hardware conditions and consistent hash rates. This, in turn, facilitates the maximization of profits and the attainment of greater success in the cryptocurrency mining sector.**
-- 💬 **Ask me about anything related to Python/Machine Learning/Big Data/SQL.**
+- 💬 **Ask me about anything related to #data, #python, #blockchain, #dataanalytics, and #machinelearning.**
 - 📫 **How to reach me:** 
 <a href="https://www.linkedin.com/in/navadeep-pasala-1280b0145/">
   <img align="left" alt="Navadeep Pasala Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -11,9 +11,6 @@
 <a href="https://www.instagram.com/navadeep_pasala/">
   <img align="left" alt="Navadeep Pasala Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a> 
-<a href="https://www.facebook.com/navadeeppasala/">
-  <img align="left" alt="Navadeep Pasala Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <br>
 
 
